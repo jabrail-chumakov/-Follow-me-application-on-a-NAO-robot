@@ -1,1 +1,1 @@
-# -Follow-me-application-on-a-NAO-robot
+# "Follow me" application on a NAO robot
