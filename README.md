@@ -7,4 +7,5 @@ In this project I implemented “Follow Me” application on a NAO robot by usin
 * Choregraphe
 * NAOqi Python
 
-## 
+## Open Choregraphe
+Open Choregraphe software and press `Connect > Connect to` in order to observe your `IP` and `Port`
