@@ -24,6 +24,6 @@ Open your terminal and change direction to your script location. After that you 
 * Speed of rotation depends on angle. For `Right` we have `-8 * (rotation_rate)` and for `Left` we have `-rotation_rate`. It was done due to the reason that there is a big gap in `wristJoint` angle.
 
 ## Demonstration
-[![Watch the video](http://i3.ytimg.com/vi/bdWDjS8xPiY/hqdefault.jpg)](https://www.youtube.com/watch?v=bdWDjS8xPiY&feature=youtu.be)
+[![Watch the video](http://i3.ytimg.com/vi/fKJJajUK_WE/hqdefault.jpg)](https://www.youtube.com/watch?v=fKJJajUK_WE&feature=youtu.be)
 
 ## Good Luck!
